@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="application-x-mswinurl.svg">
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="12.531115"
+     inkscape:cx="14.163964"
+     inkscape:cy="22.69986"
+     inkscape:current-layer="svg2"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4" />
+  <path
+     sodipodi:nodetypes="cccccc"
+     style="fill:#008eff;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     d="m 4.499996,5.6271117 0,36.7457773 39.000009,0 -0.09154,-36.6840319 -12.526114,-0.061745 z"
+     id="rect4090" />
+  <path
+     style="fill:#ffffff;fill-rule:evenodd;stroke:#003bc3;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:2"
+     inkscape:connector-curvature="0"
+     d="m 34.339419,25.573712 c -0.08626,-4.560977 -4.761442,-8.207386 -10.456762,-8.155622 -5.695286,0.05176 -10.266011,3.782223 -10.22292,8.343586 0.04309,4.561355 4.68376,8.236024 10.379436,8.218754 5.695607,-0.01727 10.301393,-3.719959 10.301393,-8.281424"
+     stroke-miterlimit="2.00000000000"
+     id="shape0" />
+</svg>

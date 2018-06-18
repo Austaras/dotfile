@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="64"
+   height="64"
+   sodipodi:docname="calendar.svg">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1316"
+     inkscape:window-height="672"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="-15.186441"
+     inkscape:cy="32"
+     inkscape:window-x="44"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <rect
+     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.53665989999999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="rect3005"
+     width="59.081985"
+     height="59.624359"
+     x="2.4590092"
+     y="2.1878221"
+     ry="5.9392786"
+     rx="5.9392786" />
+  <g
+     id="g2987">
+    <g
+       style="fill:#ffffff"
+       transform="matrix(1.3305084,0,0,1.4576271,11.118643,8.1355932)"
+       id="g3493">
+      <g
+         style="fill:#ffffff"
+         id="icomoon-ignore" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         d="M 29.334,3 H 25 V 1 C 25,0.447 24.553,0 24,0 23.447,0 23,0.447 23,1 V 3 H 17 V 1 C 17,0.447 16.552,0 16,0 15.448,0 15,0.447 15,1 V 3 H 9 V 1 C 9,0.447 8.552,0 8,0 7.448,0 7,0.447 7,1 V 3 H 2.667 C 1.194,3 0,4.193 0,5.666 V 29.333 C 0,30.806 1.194,32 2.667,32 H 29.334 C 30.807,32 32,30.806 32,29.333 V 5.666 C 32,4.193 30.807,3 29.334,3 z M 30,29.333 C 30,29.701 29.701,30 29.334,30 H 2.667 C 2.299,30 2,29.701 2,29.333 V 5.666 C 2,5.299 2.299,5 2.667,5 H 7 V 7 C 7,7.553 7.448,8 8,8 8.552,8 9,7.553 9,7 V 5 h 6 v 2 c 0,0.553 0.448,1 1,1 0.552,0 1,-0.447 1,-1 V 5 h 6 v 2 c 0,0.553 0.447,1 1,1 0.553,0 1,-0.447 1,-1 V 5 h 4.334 C 29.701,5 30,5.299 30,5.666 V 29.333 z M 7,12 h 4 v 3 H 7 z m 0,5 h 4 v 3 H 7 z m 0,5 h 4 v 3 H 7 z m 7,0 h 4 v 3 h -4 z m 0,-5 h 4 v 3 h -4 z m 0,-5 h 4 v 3 h -4 z m 7,10 h 4 v 3 h -4 z m 0,-5 h 4 v 3 h -4 z m 0,-5 h 4 v 3 h -4 z"
+         id="path3485" />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path2985"
+       d="m 18.440678,23.322034 0.271186,24.135593 28.474577,-0.542373 -0.81356,-24.135593 z"
+       style="fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:15.30666924px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+     x="20.560286"
+     y="36.793358"
+     id="text2993"
+     sodipodi:linespacing="125%"
+     transform="scale(1.0702042,0.9344011)"><tspan
+       sodipodi:role="line"
+       id="tspan2995"
+       x="20.560286"
+       y="36.793358">23</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:7.64914274px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+     x="25.552774"
+     y="35.678715"
+     id="text2997"
+     sodipodi:linespacing="125%"
+     transform="scale(0.76491429,1.307336)"><tspan
+       sodipodi:role="line"
+       id="tspan2999"
+       x="25.552774"
+       y="35.678715">AGOSTO</tspan></text>
+</svg>

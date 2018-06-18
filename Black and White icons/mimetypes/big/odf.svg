@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="odf.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="13.906433"
+     inkscape:cx="8.0104008"
+     inkscape:cy="24.955744"
+     inkscape:current-layer="svg2"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer1"
+     transform="matrix(1.1470591,0,0,0.91864444,-3.5294177,1.9525339)"
+     style="fill:#5880bb;fill-opacity:1">
+    <path
+       id="rect4090"
+       transform="translate(7,4)"
+       d="M 0,0 0,40 34,40 34,0.06980703 23,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#5880bb;fill-opacity:1"
+       sodipodi:nodetypes="cccccc" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:16.51155281000000130px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:KanjiStrokeOrders;-inkscape-font-specification:KanjiStrokeOrders Medium"
+     x="10.193342"
+     y="30.155552"
+     id="text2986"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan2988"
+       x="10.193342"
+       y="30.155552"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Droid Arabic Kufi;-inkscape-font-specification:Droid Arabic Kufi;fill:#ffffff;fill-opacity:1">odf</tspan></text>
+</svg>

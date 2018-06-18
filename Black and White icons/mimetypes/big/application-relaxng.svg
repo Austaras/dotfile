@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="38.4pt"
+   height="38.4pt"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="application-relaxng.svg">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="991"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="7.9404762"
+     inkscape:cx="-6.4054662"
+     inkscape:cy="10.884963"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="0,1"
+       position="24.813559,28.677966"
+       id="guide2986" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="12.422605,18.121864"
+       id="guide3019" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="35.486795,20.303612"
+       id="guide3021" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="24.489005,10.864213"
+       id="guide3023" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <g
+     id="layer1"
+     transform="matrix(1.1470591,0,0,0.91864444,-3.5294177,1.9525339)"
+     style="fill:#f948fb;fill-opacity:1">
+    <path
+       id="rect4090"
+       transform="translate(7,4)"
+       d="M 0,0 0,40 34,40 33.79661,0.01694915 23,0 z"
+       inkscape:connector-curvature="0"
+       style="fill:#f948fb;fill-opacity:1"
+       sodipodi:nodetypes="cccccc" />
+    <g
+       id="logo"
+       transform="translate(10.9749,16.1118)"
+       style="fill:#f948fb;fill-opacity:1" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:7.35327910999999990px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.85;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Century Schoolbook L;-inkscape-font-specification:Century Schoolbook L Medium"
+     x="11.629169"
+     y="33.578796"
+     id="text2988"
+     sodipodi:linespacing="125%"
+     transform="scale(0.90421662,1.1059297)"><tspan
+       sodipodi:role="line"
+       id="tspan2990"
+       x="11.629169"
+       y="33.578796"
+       style="font-size:22.05983734000000140px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;font-family:Sans;-inkscape-font-specification:'cursor.pcf'">Rx</tspan></text>
+</svg>
