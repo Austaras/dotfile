@@ -11,3 +11,4 @@ gtk=$(dconf read /org/gnome/desktop/interface/gtk-theme | sed -e "s/'\(.*\)'/\1/
 cp -r "$HOME/.themes/$gtk" .
 shell=$(dconf read /org/gnome/shell/extensions/user-theme/name | sed -e "s/'\(.*\)'/\1/")
 cp -r "$HOME/.themes/$shell" .
+cp "$HOME/.config/tilda/style.css" tilda/
