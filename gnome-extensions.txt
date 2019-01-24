@@ -1,21 +1,9 @@
-AlternateTab
-Applications Menu
-Auto Move Windows
 Coverflow Alt-Tab
 Dash to Panel
 Removable Drive Menu
 Freon
-Launch new instance
-Native Window Placement
 No Title Bar
 OpenWeather
-Places Status Indicator
-Remove Accessibility
-Screenshot Window Sizer
 System Monitor
-TopIcons Plus
+TopIcons Redux
 User Themes
-Window List
-Windows Blur Effects
-windowNavigator
-Workspace Indicator
