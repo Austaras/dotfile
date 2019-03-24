@@ -591,17 +591,20 @@ StScrollBar {
 .tile-preview-left.tile-preview-right.on-primary {
 	border-radius: 0 0 0 0; }
 
+#panelBox {
+	border: 4px solid #505050;
+	border-top-width: 0;
+	border-left-width: 0;
+	border-right-width: 0
+}
 /* TOP BAR (panel)*/
 #panel {
 	font-weight: normal;
 	color: black;
 	height: 32px;
 	background-color: rgba(255, 255, 255, 0.4);
-	border: 4px solid #000;
+	/* border: 4px solid dimgray; */
 	font-weight: light;
-	border-top-width: 0;
-	border-left-width: 0;
-	border-right-width: 0;
 }
 	#panel.unlock-screen, #panel.login-screen, #panel.lock-screen {
 		background-color: transparent; }
@@ -774,7 +777,7 @@ StScrollBar {
 	height: 2.4em;
 	padding: 0.1em;
 	margin: 2px;
-	border-radius: 1.4em;
+	border-radius: 2px;
 	border: none; }
 	.calendar-day-base:hover, .calendar-day-base:focus {
 		background-color: rgba(0,0,0,0.85); }
