@@ -1627,6 +1627,9 @@ cursor-handle {
   cursor-handle.bottom {
     -gtk-icon-source: -gtk-icontheme("selection-end-symbolic"); }
 
+.terminator-terminal-window notebook.frame {
+    border: none
+}
 notebook {
   padding: 0; }
   notebook.frame {

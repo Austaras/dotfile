@@ -2,8 +2,8 @@ Coverflow Alt-Tab
 Dash to Panel
 Removable Drive Menu
 Freon
-No Title Bar
 OpenWeather
 System Monitor
 TopIcons Redux
+Unite
 User Themes
