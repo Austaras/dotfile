@@ -27,6 +27,8 @@ filechooser,
     row.sidebar-row {
       border: none;
       color: $dark_sidebar_fg;
+      min-height: 40px;
+      border-bottom: 1px solid black;
 
       .sidebar-icon { color: transparentize($dark_sidebar_fg, 0.4); }
 

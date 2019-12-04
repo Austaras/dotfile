@@ -326,11 +326,10 @@ $_dot_color: $selected_bg_color;
 
   $button_transition: all 200ms $ease-out-quad;
 button {
-  min-height: 22px;
+  min-height: 28px;
   min-width: 20px;
   transition: $button_transition;
   border: 1px solid;
-  border-radius: 3px;
   padding: 2px 6px;
 
   @include button(normal);
@@ -581,7 +580,7 @@ button {
 // More inline toolbar buttons
 toolbar.inline-toolbar toolbutton {
   & > button.flat { @extend %linked_middle; }
-  &:first-child > button.flat { @extend %linked:first-child; }
+  // &:first-child > button.flat { @extend %linked:first-child; }
   &:last-child > button.flat { @extend %linked:last-child; }
   &:only-child > button.flat { @extend %linked:only-child; }
 }
@@ -680,17 +679,10 @@ toolbar.inline-toolbar toolbutton {
 
 %linked {
   @extend %linked_middle;
-  &:first-child {
-    border-top-left-radius: 3px;
-    border-bottom-left-radius: 3px;
-  }
   &:last-child {
-    border-top-right-radius: 3px;
-    border-bottom-right-radius: 3px;
     border-right-style: solid;
   }
   &:only-child {
-    border-radius: 3px;
     border-style: solid;
   }
 }
@@ -873,7 +865,7 @@ combobox {
     &:dir(rtl) { @extend %linked_middle; } // specificity bump
   }
 
-  .linked:not(.vertical) > &:first-child > box > button.combo { @extend %linked:first-child; }
+  // .linked:not(.vertical) > &:first-child > box > button.combo { @extend %linked:first-child; }
   .linked:not(.vertical) > &:last-child > box > button.combo { @extend %linked:last-child; }
   .linked:not(.vertical) > &:only-child > box > button.combo { @extend %linked:only-child; }
 
@@ -1092,10 +1084,6 @@ headerbar,
   }
 
   separator.titlebutton { @extend %header_separator; }
-}
-
-.titlebar {
-  border-radius: $_header_radius $_header_radius 0 0;
 }
 
 headerbar {
@@ -1775,6 +1763,10 @@ notebook {
   &.frame {
     border: 1px solid $borders_color;
 
+    .terminator-terminal-window & {
+      border: none;
+    }
+
     > header {
       // ugly hack to hide the borders around the header
       margin: -1px;
@@ -1809,7 +1801,7 @@ notebook {
         > tabs > tab {
           padding: 2px 10px;
           min-width: 20px;
-          min-height: 20px;
+          min-height: if($_pos == left or $_pos == right, 35px, 20px);
 
           outline-offset: -4px;
 
@@ -1914,7 +1906,6 @@ scrollbar {
     -GtkScrollbar-has-forward-stepper: false;
   }
 
-  background-color: $_scrollbar_bg_color;
   transition: 300ms $ease-out-quad;
 
   // scrollbar border
@@ -2486,7 +2477,7 @@ list {
   background-color: $base_color;
   border-color: $borders_color;
 
-  row { padding: 2px; }
+  row { padding: 6px; }
 }
 
 row {
@@ -2609,8 +2600,6 @@ messagedialog { // Message Dialog styling
 
   &.csd { // rounded bottom border styling for csd version
     &.background {
-      border-bottom-left-radius: 3px;
-      border-bottom-right-radius: 3px;
       border: none;
     }
     .dialog-action-area button {
