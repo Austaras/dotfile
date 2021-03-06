@@ -4,5 +4,6 @@ Removable Drive Menu
 Freon
 OpenWeather
 System Monitor
+system-monitor
 Unite
 User Themes
