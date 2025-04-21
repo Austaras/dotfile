@@ -1,9 +1,7 @@
 Coverflow Alt-Tab
 Dash to Panel
-Removable Drive Menu
 Freon
-OpenWeather
-System Monitor
-system-monitor
-Unite
+OpenWeather Refined
+
 User Themes
+Vitals
